@@ -13,6 +13,7 @@ An oppinated list of libraries, ideas and code I stumbled upon. Non-regular upda
 - [mailcheck](https://github.com/mailcheck/mailcheck) - reduce misspelled email addresses.
 - [gifify](https://github.com/vvo/gifify) - video to gif conversions.
 - [serp-parser](https://github.com/zlurad/serp-parser) - parse SERPs using this library, easy and simple.
+- [puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) - automate performance testing using Puppeteer
 
 ## Vue
 
