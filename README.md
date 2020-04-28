@@ -19,3 +19,7 @@ An oppinated list of libraries, ideas and code I stumbled upon. Non-regular upda
 
 - [vue-web-extension](https://github.com/Kocal/vue-web-extension) - Boilerplate to start a browser extension using Vue.
 - [vue-numerals](https://github.com/Kocal/vue-numerals) - Vue-wrapper around [Numeral.js](http://numeraljs.com/), a lib to parse and format numbers.
+
+## Bash
+
+ - [HostCtl](https://github.com/guumaster/hostctl) - library to manage /etc/hosts (see [How I force myself to work](https://peterthaleikis.com/posts/how-i-force-myself-to-work/))
