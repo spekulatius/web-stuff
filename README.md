@@ -6,6 +6,7 @@ An oppinated list of libraries, ideas and code I stumbled upon. Non-regular upda
 
 - [PHP-Spider](https://github.com/mvdbos/php-spider) - Well done library to spider the web.
 - [Guotte](https://github.com/FriendsOfPHP/Goutte) - a cool library to parse sites and trigger actions on the web.
+- [RakePlus](https://github.com/Donatello-za/rake-php-plus) - automatic keyword extracting of a given string.
 
 ## JS/ES6
 
