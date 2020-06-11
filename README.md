@@ -4,13 +4,14 @@ An oppinated list of libraries, ideas and code I stumbled upon. Non-regular upda
 
 ## PHP
 
-- [PHP-Spider](https://github.com/mvdbos/php-spider) - Well done library to spider the web.
+- [PHP-Spider](https://github.com/mvdbos/php-spider) - well-done library to spider the web.
 - [Guotte](https://github.com/FriendsOfPHP/Goutte) - a cool library to parse sites and trigger actions on the web.
 - [RakePlus](https://github.com/Donatello-za/rake-php-plus) - automatic keyword extracting of a given string.
 - [PHP NLP Tools](https://github.com/angeloskath/php-nlp-tools) - Natural Language Processing Tools in PHP
 - [Tor Detector](https://github.com/onlinesid/tor-detector) - Detect if user comes via Tor
 - [Crawler Detect](https://github.com/JayBizzle/Crawler-Detect) - Detect if the requestor is a crawler (based on user-agents)
 - [bref](https://github.com/brefphp/bref) - Serverless PHP using AWS Lambda
+- [sendportal](https://github.com/mettle/sendportal) - Send your own newsletters from this Laravel application
 
 ## JS/ES6
 
@@ -19,6 +20,7 @@ An oppinated list of libraries, ideas and code I stumbled upon. Non-regular upda
 - [gifify](https://github.com/vvo/gifify) - video to gif conversions.
 - [serp-parser](https://github.com/zlurad/serp-parser) - parse SERPs using this library, easy and simple.
 - [puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) - automate performance testing using Puppeteer
+- [redaxios](https://github.com/developit/redaxios) - 800 byte wrapper around `fetch` to replace axios library
 
 ## Vue
 
