@@ -22,7 +22,7 @@ An oppinated list of libraries, ideas and code I stumbled upon. Non-regular upda
 
 ## Vue
 
-- [vue-web-extension](https://github.com/Kocal/vue-web-extension) - Boilerplate to start a browser extension using Vue.
+- [vue-web-extension](https://github.com/Kocal/vue-web-extension) - Boilerplate to start a browser extension using Vue. [Documentation](https://vue-web-extension.netlify.app/)
 - [vue-numerals](https://github.com/Kocal/vue-numerals) - Vue-wrapper around [Numeral.js](http://numeraljs.com/), a lib to parse and format numbers.
 
 ## Bash
