@@ -30,3 +30,4 @@ An oppinated list of libraries, ideas and code I stumbled upon. Non-regular upda
 ## Bash
 
  - [HostCtl](https://github.com/guumaster/hostctl) - library to manage /etc/hosts (see [How I force myself to work](https://peterthaleikis.com/posts/how-i-force-myself-to-work/))
+ - [rclone](https://rclone.org) ([GitHub](https://github.com/rclone/rclone)) - `rsync`-style backups to numerous cloud services
