@@ -12,6 +12,7 @@ An oppinated list of libraries, ideas and code I stumbled upon. Non-regular upda
 - [Crawler Detect](https://github.com/JayBizzle/Crawler-Detect) - Detect if the requestor is a crawler (based on user-agents)
 - [bref](https://github.com/brefphp/bref) - Serverless PHP using AWS Lambda
 - [sendportal](https://github.com/mettle/sendportal) - Send your own newsletters from this Laravel application
+- [domain-parser](https://github.com/jeremykendall/php-domain-parser) - with endless new domain parsing these gets harder and harder, this library helps you getting the job done.
 
 ## JS/ES6
 
