@@ -1,6 +1,6 @@
 # My web stuff
 
-An oppinated list of libraries, ideas and code I stumbled upon. Non-regular updated.
+An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-regular updated.
 
 ## PHP
 
@@ -32,3 +32,12 @@ An oppinated list of libraries, ideas and code I stumbled upon. Non-regular upda
 
  - [HostCtl](https://github.com/guumaster/hostctl) - library to manage /etc/hosts (see [How I force myself to work](https://peterthaleikis.com/posts/how-i-force-myself-to-work/))
  - [rclone](https://rclone.org) ([GitHub](https://github.com/rclone/rclone)) - `rsync`-style backups to numerous cloud services
+ 
+ ## Articles
+ 
+ - [Dear Fuck Up: How Do I Figure Out What I Want in Life When Every Day Feels the Same?](https://jezebel.com/dear-fuck-up-how-do-i-figure-out-what-i-want-in-life-w-1843295430)
+ - [
+Why People Become Internet Trolls
+](https://dradambell.com/why-people-become-internet-trolls/)
+ - [Indieweb pt1: Syndicating Content to Twitter](https://mxb.dev/blog/syndicating-content-to-twitter-with-netlify-functions/)
+ - [Indieweb pt2: Using Webmentions in Eleventy](https://mxb.dev/blog/using-webmentions-on-static-sites/)
