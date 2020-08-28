@@ -23,6 +23,7 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
 - [serp-parser](https://github.com/zlurad/serp-parser) - parse SERPs using this library, easy and simple.
 - [puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) - automate performance testing using Puppeteer
 - [redaxios](https://github.com/developit/redaxios) - 800 byte wrapper around `fetch` to replace axios library
+- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - a browser extension to record actions and output a Puppeteer script
 
 ## Vue
 
