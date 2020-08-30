@@ -2,6 +2,7 @@
 
 An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-regular updated.
 
+
 ## PHP
 
 - [PHP-Spider](https://github.com/mvdbos/php-spider) - well-done library to spider the web.
@@ -15,6 +16,7 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
 - [sendportal](https://github.com/mettle/sendportal) - Send your own newsletters from this Laravel application
 - [domain-parser](https://github.com/jeremykendall/php-domain-parser) - with endless new domain parsing these gets harder and harder, this library helps you getting the job done.
 
+
 ## JS/ES6
 
 - [webpage-webmentions](https://github.com/voxpelli/webpage-webmentions) - drop in implementation of webmentions. See [webmention.io](https://webmention.io/) and this [great post](https://mxb.dev/blog/using-webmentions-on-static-sites/) by @maxboeck.
@@ -25,18 +27,21 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
 - [redaxios](https://github.com/developit/redaxios) - 800 byte wrapper around `fetch` to replace axios library
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - a browser extension to record actions and output a Puppeteer script
 
+
 ## Vue
 
 - [vue-web-extension](https://github.com/Kocal/vue-web-extension) - Boilerplate to start a browser extension using Vue. [Documentation](https://vue-web-extension.netlify.app/)
 - [vue-numerals](https://github.com/Kocal/vue-numerals) - Vue-wrapper around [Numeral.js](http://numeraljs.com/), a lib to parse and format numbers.
 
+
 ## Bash
 
  - [HostCtl](https://github.com/guumaster/hostctl) - library to manage /etc/hosts (see [How I force myself to work](https://peterthaleikis.com/posts/how-i-force-myself-to-work/))
  - [rclone](https://rclone.org) ([GitHub](https://github.com/rclone/rclone)) - `rsync`-style backups to numerous cloud services
- 
- ## Articles
- 
+
+
+## Articles
+
  - [Dear Fuck Up: How Do I Figure Out What I Want in Life When Every Day Feels the Same?](https://jezebel.com/dear-fuck-up-how-do-i-figure-out-what-i-want-in-life-w-1843295430)
  - [
 Why People Become Internet Trolls
