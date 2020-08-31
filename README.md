@@ -1,6 +1,6 @@
 # My web stuff
 
-An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-regular updated.
+An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-regular updated. I also maintain a little repo about [quickly put together hacks](https://github.com/spekulatius/hacks) without any plans to maintain these long.
 
 
 ## PHP
