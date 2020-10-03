@@ -15,6 +15,7 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
 - [bref](https://github.com/brefphp/bref) - Serverless PHP using AWS Lambda
 - [sendportal](https://github.com/mettle/sendportal) - Send your own newsletters from this Laravel application
 - [domain-parser](https://github.com/jeremykendall/php-domain-parser) - with endless new domain parsing these gets harder and harder, this library helps you getting the job done.
+- [PHP VCR](https://github.com/php-vcr/php-vcr) - record your HTTP requests and reply them as tests.
 
 
 ## JS/ES6
