@@ -38,6 +38,11 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
 
  - [HostCtl](https://github.com/guumaster/hostctl) - library to manage /etc/hosts (see [How I force myself to work](https://peterthaleikis.com/posts/how-i-force-myself-to-work/))
  - [rclone](https://rclone.org) ([GitHub](https://github.com/rclone/rclone)) - `rsync`-style backups to numerous cloud services
+ 
+ 
+## Serverless
+
+ - [faasd](https://github.com/openfaas/faasd/) - hosting serverless functions yourself without all the pain.
 
 
 ## Articles
