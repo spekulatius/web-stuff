@@ -48,8 +48,6 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
 ## Articles
 
  - [Dear Fuck Up: How Do I Figure Out What I Want in Life When Every Day Feels the Same?](https://jezebel.com/dear-fuck-up-how-do-i-figure-out-what-i-want-in-life-w-1843295430)
- - [
-Why People Become Internet Trolls
-](https://dradambell.com/why-people-become-internet-trolls/)
+ - [Why People Become Internet Trolls](https://dradambell.com/why-people-become-internet-trolls/)
  - [Indieweb pt1: Syndicating Content to Twitter](https://mxb.dev/blog/syndicating-content-to-twitter-with-netlify-functions/)
  - [Indieweb pt2: Using Webmentions in Eleventy](https://mxb.dev/blog/using-webmentions-on-static-sites/)
