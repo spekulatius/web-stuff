@@ -51,3 +51,4 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
  - [Why People Become Internet Trolls](https://dradambell.com/why-people-become-internet-trolls/)
  - [Indieweb pt1: Syndicating Content to Twitter](https://mxb.dev/blog/syndicating-content-to-twitter-with-netlify-functions/)
  - [Indieweb pt2: Using Webmentions in Eleventy](https://mxb.dev/blog/using-webmentions-on-static-sites/)
+ - [Cross-promoting articles to Telegram](https://gummibeer.dev/blog/2020/telegram-newsletter-command/)
