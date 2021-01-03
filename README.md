@@ -41,6 +41,11 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
  - [rclone](https://rclone.org) ([GitHub](https://github.com/rclone/rclone)) - `rsync`-style backups to numerous cloud services
 
 
+## Hardware
+
+ - [WinDIY](https://github.com/Nerdiyde/WinDIY) - 3D-printed open-source DIY wind-turbine
+
+
 ## Articles
 
  - [Dear Fuck Up: How Do I Figure Out What I Want in Life When Every Day Feels the Same?](https://jezebel.com/dear-fuck-up-how-do-i-figure-out-what-i-want-in-life-w-1843295430)
