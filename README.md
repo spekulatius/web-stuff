@@ -39,6 +39,11 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
 
  - [HostCtl](https://github.com/guumaster/hostctl) - library to manage /etc/hosts (see [How I force myself to work](https://peterthaleikis.com/posts/how-i-force-myself-to-work/))
  - [rclone](https://rclone.org) ([GitHub](https://github.com/rclone/rclone)) - `rsync`-style backups to numerous cloud services
+ 
+ 
+## Serverless
+
+ - [faasd](https://github.com/openfaas/faasd/) - hosting serverless functions yourself without all the pain.
 
 
 ## Hardware
@@ -49,8 +54,7 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
 ## Articles
 
  - [Dear Fuck Up: How Do I Figure Out What I Want in Life When Every Day Feels the Same?](https://jezebel.com/dear-fuck-up-how-do-i-figure-out-what-i-want-in-life-w-1843295430)
- - [
-Why People Become Internet Trolls
-](https://dradambell.com/why-people-become-internet-trolls/)
+ - [Why People Become Internet Trolls](https://dradambell.com/why-people-become-internet-trolls/)
  - [Indieweb pt1: Syndicating Content to Twitter](https://mxb.dev/blog/syndicating-content-to-twitter-with-netlify-functions/)
  - [Indieweb pt2: Using Webmentions in Eleventy](https://mxb.dev/blog/using-webmentions-on-static-sites/)
+ - [Cross-promoting articles to Telegram](https://gummibeer.dev/blog/2020/telegram-newsletter-command/)
