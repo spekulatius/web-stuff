@@ -51,6 +51,11 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
  - [WinDIY](https://github.com/Nerdiyde/WinDIY) - 3D-printed open-source DIY wind-turbine
 
 
+## Legal
+ 
+ - [BEIPA](https://github.com/github/balanced-employee-ip-agreement) - GitHub's Balanced Employee IP Agreement (BEIPA).
+
+
 ## Articles
 
  - [Dear Fuck Up: How Do I Figure Out What I Want in Life When Every Day Feels the Same?](https://jezebel.com/dear-fuck-up-how-do-i-figure-out-what-i-want-in-life-w-1843295430)
