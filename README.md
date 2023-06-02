@@ -6,7 +6,6 @@ An opinionated list of libraries, ideas, code and articles I stumbled upon. Non-
 ## PHP
 
 - [PHP-Spider](https://github.com/mvdbos/php-spider) - well-done library to spider the web.
-- [Goutte](https://github.com/FriendsOfPHP/Goutte) - a cool library to parse sites and trigger actions on the web.
 - [PHP Scraper](https://github.com/spekulatius/PHPScraper) - PHP scraping library I've built
 - [RakePlus](https://github.com/Donatello-za/rake-php-plus) - automatic keyword extracting of a given string.
 - [PHP NLP Tools](https://github.com/angeloskath/php-nlp-tools) - Natural Language Processing Tools in PHP
